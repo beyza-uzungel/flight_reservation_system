@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.exe.config
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.exe
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\bin\Debug\Ucus_rezervasyon_sistemi.pdb
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.Form1.resources
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.exe
+C:\Users\Monster\Desktop\c# projeler\Ucus_rezervasyon_sistemi\Ucus_rezervasyon_sistemi\obj\Debug\Ucus_rezervasyon_sistemi.pdb
